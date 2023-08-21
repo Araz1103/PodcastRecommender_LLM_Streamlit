@@ -1,0 +1,5 @@
+modal==0.51.3085
+modal_client==0.51.3085
+numpy==1.23.2
+pandas==1.4.3
+streamlit==1.25.0
