@@ -64,7 +64,7 @@ In the Project, we used Modal Labs, to host all the functions for core recommend
 
 ### Future Scope
 
-#### 1. Use Whisper X for Transcribing a Podcast, and add the Quick Listen feature to show Highlights & Guests on the App
+#### 1. Use Whisper X for Transcribing a Podcast, and add the Quick Listen feature to show Highlights & Guests
 
 #### 2. Use Embeddings from USE, MiniLM or any other Model, to fine tune the Recommendations for the User
 
